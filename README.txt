@@ -1,7 +1,7 @@
 RPiHUB-75E
 ==========
 
-YouTube Video: http://
+YouTube Video: https://www.youtube.com/watch?v=mw-ZLyynL9E
 
 This Python script will directly drive a 64x32 LED Matrix board which has a HUB-75E communication connector. The power for the LEDs on the matrix board is supplied on a seperate connecter, on the board I am using the LED power supply is 5V. The HUB-75E communication connector is a standard and layed out as follows:
 
